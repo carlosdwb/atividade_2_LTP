@@ -1,0 +1,26 @@
+h1 {
+  color: black;
+  font-size: 36px;
+  text-align: center;
+}
+
+p {
+  color: black;
+  font-size: 20px;
+  text-align: center;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+  height: auto;
+}
+form {
+  text-align: center;
+  margin-top: 20px;
+}
+h2 {
+
+  font-size: 24px;
+  text-align: center;
+}
