@@ -24,3 +24,9 @@ h2 {
   font-size: 24px;
   text-align: center;
 }
+ul {
+    color: blue;
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+} 
